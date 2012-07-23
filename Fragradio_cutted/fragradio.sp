@@ -69,10 +69,10 @@ new bool:isTuned[100];
 new tunedVol[100];
 new AdsIndex = 0;
 
-new String:Adverts[][2048] = {
+new String:Adverts[3][2048] = {
 	"Hate the current song? Type !poon to show us!",
 	"Like the current song? Type !choon to show us!",
-	"Type !song to see what song is currently playing!",
+	"Type !song to see what song is currently playing!"
 };
 
 public Plugin:myinfo = {
