@@ -1,0 +1,1 @@
+Basically this: https://forums.alliedmods.net/showthread.php?p=1469292
